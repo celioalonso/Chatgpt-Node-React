@@ -5,7 +5,6 @@ Aplicação completa utilizando o recurso oficial da OpenAI, a inteligência por
 
 Tecnologias utilizadas:
 
-
 -Node.js
 -ChatGPT
 -Engenharia de Prompt
