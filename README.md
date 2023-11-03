@@ -11,5 +11,6 @@ Tecnologias utilizadas:
 -Engenharia de Prompt
 -React
 -IA Generativa
+
 ![20231103_16583251](https://github.com/celioalonso/Chatgpt-Node-React/assets/80286922/33b8d066-0f73-47cc-adfd-0dfc4497264d)
 
